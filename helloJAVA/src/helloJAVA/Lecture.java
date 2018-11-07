@@ -2,9 +2,7 @@ package helloJAVA;
 
 public class Lecture {
 	
-	public static void main(String[] args) {
-		
-		final int VIES_MAX = 5;
+	public static void main(String[] args) {		
 		
 		int lettre = 2;
 		int LETTRE = 4;
