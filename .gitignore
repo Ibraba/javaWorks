@@ -1,0 +1,25 @@
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+/src/main/resources/rebel.xml
+
+######################
+# Node
+######################
+/node/**
+/node_tmp/**
+/node_modules/**
