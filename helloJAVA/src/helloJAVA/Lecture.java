@@ -4,10 +4,9 @@ public class Lecture {
 	
 	public static void main(String[] args) {		
 		
-		int lettre = 2;
-		int LETTre = 4;
+		double angle = 180 * (Math.PI) / 180;
+		System.out.println("Le cosinus de 180° racine carrée de PI est: " + Math.cos(angle));
 		
-		System.out.println("lettre = " + lettre + "\nLETTre = " + LETTre);
 
 	}
 
