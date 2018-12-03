@@ -6,7 +6,6 @@
 .metadata
 .recommenders
 /**/bin/**
-/JavaIntermediaire/bin/**
 /tmp/**
 /tmp/**/*
 *.tmp
