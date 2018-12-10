@@ -2,8 +2,8 @@
 # Eclipse
 ######################
 *.pydevproject
-.project
-.metadata
+*.project
+*.metadata
 .recommenders
 /**/bin/**
 /tmp/**
@@ -13,9 +13,9 @@
 *.swp
 *~.nib
 local.properties
-.classpath
-.settings/**
-.loadpath
+*.classpath
+*.settings/**
+*.loadpath
 /src/main/resources/rebel.xml
 Lorem.txt
 /JavaIntermediaire/bin/HelloIntermediaire.class
